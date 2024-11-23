@@ -1,7 +1,7 @@
-# all_99_problems
+# Gleam 99 Problems
 
 ## Running the project
 
 ```sh
-gleam test  # Run the tests
+gleam test
 ```
